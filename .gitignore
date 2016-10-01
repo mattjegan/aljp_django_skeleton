@@ -24,12 +24,11 @@ var/
 *.egg
 
 # Virtual Environment
-mable_api_venv/
 venv/
 venv-legacy/
 
 # Espresso (IDE)
-mable_api.esproj/
+*.esproj/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
